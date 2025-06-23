@@ -17,6 +17,7 @@ int main() {
         int mid = (l+r)/2;
         if(a[mid]==val){
             flag = 1;
+            break;
         }
         else if(a[mid]>val){
             r = mid - 1;
