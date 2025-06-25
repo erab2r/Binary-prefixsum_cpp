@@ -16,7 +16,6 @@ int main() {
             return 0;
         }
     }
-
     cout << "NO" << endl;
     return 0;
 }
